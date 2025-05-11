@@ -57,7 +57,11 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>十花十花十花，为了一个弱智问题让十花自己的代码也不能写</source>
+        <source>十花</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Saber酱</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

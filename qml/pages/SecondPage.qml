@@ -71,8 +71,15 @@ Page {
                 x: Theme.paddingLarge
                 width: parent.width - 2 * Theme.paddingLarge
                 wrapMode: Text.WordWrap
-                font.pixelSize: Theme.fontSizeExtraLarge
-                text: qsTr("十花十花十花，为了一个弱智问题让十花自己的代码也不能写")
+//                font.pixelSize: Theme.fontSizeExtraLarge
+                text: qsTr("十花")
+            }
+            Label {
+                x: Theme.paddingLarge
+                width: parent.width - 2 * Theme.paddingLarge
+                wrapMode: Text.WordWrap
+//                font.pixelSize: Theme.fontSizeExtraLarge
+                text: qsTr("Saber酱")
             }
             /*Label {
                 x: Theme.paddingMedium

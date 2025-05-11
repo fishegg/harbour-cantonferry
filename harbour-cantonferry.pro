@@ -50,10 +50,10 @@ DISTFILES += \
     qml/models/S05Aup.qml \
     qml/models/S05Bup.qml \
     qml/models/S05Bdown.qml \
-    qml/models/S06Aup.qml \
-    qml/models/S06Adown.qml \
     qml/models/S06Bup.qml \
     qml/models/S06Bdown.qml \
+    qml/models/S06down.qml \
+    qml/models/S06up.qml \
     qml/models/S07up.qml \
     qml/models/S07down.qml \
     qml/models/S08up.qml \

@@ -6,5 +6,12 @@ Exec=harbour-cantonferry
 Name=广州水上巴士
 # translation example:
 # your app name in German locale (de)
-Name[de]=harbour-cantonferry
+#Name[de]=harbour-cantonferry
 
+[X-Sailjail]
+# Replace with your organization as a reverse domain name
+OrganizationName=fishegg
+# ApplicationName does not have to be identical to Name
+ApplicationName=cantonferry
+# Add the required permissions here
+Permissions=

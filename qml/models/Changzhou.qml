@@ -5,10 +5,10 @@ ListModel　{
         route: "S10"
         routeid: "s10"
     }
-    ListElement {
-        route: "S12"
-        routeid: "s12"
-    }
+//    ListElement {
+//        route: "S12"
+//        routeid: "s12"
+//    }
 }
 
 
